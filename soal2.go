@@ -19,7 +19,7 @@ func main() {
 			break
 		}
 		var data []string
-		for i := 0; i < input+1; i++ {
+		for i := 0; i < input; i++ {
 			data = append(data, strconv.Itoa(rumus(i)))
 		}
 
