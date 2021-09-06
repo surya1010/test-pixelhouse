@@ -55,3 +55,8 @@ Input : A-C <br>
 Output : F-G-H <br>
 Input : A-B-D <br>
 Output : Tidak ada Child <br>
+
+# Jawaban
+- git clone
+- run hasil binary untuk masing masing soal <br>
+contoh ```./soal1``` untuk jawaban soal1
